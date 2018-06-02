@@ -1,7 +1,11 @@
 # project1
 
 > d!!!!
-
+```npm
+ # typescript
+ npm i -S vue-property-decorator
+ 
+```
 ## Build Setup
 
 ``` bash
